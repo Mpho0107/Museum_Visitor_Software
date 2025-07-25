@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698005626 source:c:\users\mphop\onedrive\desktop\2023 school work semester 3 mp\cmpg 121\creative project\thabanempho_38697505_physicaldesignphase\thabanempho_38697505_physicaldesignphase\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
